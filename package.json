@@ -13,7 +13,7 @@
     "bootstrap-vue": "^2.0.0-rc.24",
     "core-js": "^2.6.5",
     "vue": "^2.6.10",
-    "vue-moment": "^4.0.0",
+    "vue-moment": "^4.1.0",
     "vue-router": "^3.0.6",
     "vuejs-paginate": "^2.1.0"
   },
